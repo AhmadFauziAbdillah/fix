@@ -476,4 +476,7 @@ function toggleAdminStatus($adminId) {
 // ========================================
 //require_once __DIR__ . '/user-functions.php';
 
+
+// Include Booking Functions
+require_once __DIR__ . '/booking-functions.php';
 ?>
