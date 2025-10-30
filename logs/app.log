@@ -1,0 +1,51 @@
+[2025-10-28 22:09:40] [INFO] Environment: Standard
+[2025-10-28 22:09:40] [INFO] Base URL: http://localhost/garansi
+[2025-10-28 22:09:40] [INFO] PHP Version: 7.4.12
+[2025-10-28 22:09:55] [WARNING] Failed login attempt for username: admin from IP: ::1
+[2025-10-28 22:10:03] [WARNING] Failed login attempt for username: admin from IP: ::1
+[2025-10-28 22:12:14] [WARNING] Failed login attempt for username: admin from IP: ::1
+[2025-10-28 22:14:19] [WARNING] Failed login attempt for username: admin from IP: ::1
+[2025-10-28 22:14:23] [WARNING] Failed login attempt for username: admin from IP: ::1
+[2025-10-28 22:28:26] [INFO] New admin created: admin (ID: 2) from IP: ::1
+[2025-10-28 22:37:50] [INFO] Environment: Standard
+[2025-10-28 22:37:50] [INFO] Base URL: http://localhost/garansi
+[2025-10-28 22:37:50] [INFO] PHP Version: 7.4.12
+[2025-10-28 22:39:38] [INFO] Environment: Standard
+[2025-10-28 22:39:38] [INFO] Base URL: http://localhost/garansi
+[2025-10-28 22:39:38] [INFO] PHP Version: 7.4.12
+[2025-10-29 07:37:42] [INFO] Environment: Standard
+[2025-10-29 07:37:42] [INFO] Base URL: http://localhost/garansi
+[2025-10-29 07:37:42] [INFO] PHP Version: 7.4.12
+[2025-10-29 07:39:06] [INFO] Environment: Standard
+[2025-10-29 07:39:06] [INFO] Base URL: http://localhost/garansi
+[2025-10-29 07:39:06] [INFO] PHP Version: 7.4.12
+[2025-10-29 07:40:06] [INFO] Environment: Standard
+[2025-10-29 07:40:06] [INFO] Base URL: http://192.168.100.192/garansi
+[2025-10-29 07:40:06] [INFO] PHP Version: 7.4.12
+[2025-10-29 08:44:50] [INFO] Environment: Standard
+[2025-10-29 08:44:50] [INFO] Base URL: http://localhost/garansi
+[2025-10-29 08:44:50] [INFO] PHP Version: 7.4.12
+[2025-10-29 09:03:18] [INFO] Environment: Standard
+[2025-10-29 09:03:18] [INFO] Base URL: http://192.168.100.192/garansi
+[2025-10-29 09:03:18] [INFO] PHP Version: 7.4.12
+[2025-10-30 01:45:03] [INFO] Environment: Standard
+[2025-10-30 01:45:03] [INFO] Base URL: http://192.168.100.192/garansi
+[2025-10-30 01:45:03] [INFO] PHP Version: 7.4.12
+[2025-10-30 10:31:58] [INFO] Environment: Standard
+[2025-10-30 10:31:58] [INFO] Base URL: http://localhost/yrteam
+[2025-10-30 10:31:58] [INFO] PHP Version: 7.4.12
+[2025-10-30 10:47:40] [INFO] Environment: Standard
+[2025-10-30 10:47:40] [INFO] Base URL: http://localhost/yrteam
+[2025-10-30 10:47:40] [INFO] PHP Version: 7.4.12
+[2025-10-30 10:49:04] [INFO] Environment: Standard
+[2025-10-30 10:49:04] [INFO] Base URL: http://localhost/yrteam
+[2025-10-30 10:49:04] [INFO] PHP Version: 7.4.12
+[2025-10-30 10:51:14] [INFO] Environment: Standard
+[2025-10-30 10:51:14] [INFO] Base URL: http://192.168.100.192/yrteam
+[2025-10-30 10:51:14] [INFO] PHP Version: 7.4.12
+[2025-10-30 10:52:40] [INFO] Environment: Standard
+[2025-10-30 10:52:40] [INFO] Base URL: http://192.168.100.192/yrteam
+[2025-10-30 10:52:40] [INFO] PHP Version: 7.4.12
+[2025-10-30 15:07:31] [INFO] Environment: Standard
+[2025-10-30 15:07:31] [INFO] Base URL: http://localhost/yrteam
+[2025-10-30 15:07:31] [INFO] PHP Version: 7.4.12
