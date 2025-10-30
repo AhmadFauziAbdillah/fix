@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 30, 2025 at 03:05 PM
+-- Generation Time: Oct 30, 2025 at 07:16 PM
 -- Server version: 10.4.16-MariaDB
 -- PHP Version: 7.4.12
 
@@ -244,7 +244,12 @@ INSERT INTO `services` (`id`, `name`, `description`, `price`, `duration_minutes`
 (2, 'Remap ECU Premium', 'Optimasi performa maksimal dengan garansi 14 hari', '750000.00', 180, 14, 1, '⚡', '2025-10-30 08:06:20', '2025-10-30 08:06:20'),
 (3, 'Tuning Full Service', 'Tuning lengkap + dynotest dengan garansi 30 hari', '1200000.00', 240, 30, 1, '🏍️', '2025-10-30 08:06:20', '2025-10-30 08:06:20'),
 (4, 'Dyno Test', 'Pengetesan performa motor di dynamometer', '300000.00', 60, 0, 1, '📊', '2025-10-30 08:06:20', '2025-10-30 08:06:20'),
-(5, 'Konsultasi Teknis', 'Konsultasi masalah performa motor', '150000.00', 45, 0, 1, '💬', '2025-10-30 08:06:20', '2025-10-30 08:06:20');
+(5, 'Konsultasi Teknis', 'Konsultasi masalah performa motor', '150000.00', 45, 0, 1, '💬', '2025-10-30 08:06:20', '2025-10-30 08:06:20'),
+(6, 'Remap ECU Basic', 'Optimasi performa dasar dengan garansi 7 hari', '500000.00', 120, 7, 1, '🔧', '2025-10-30 18:14:32', '2025-10-30 18:14:32'),
+(7, 'Remap ECU Premium', 'Optimasi performa maksimal dengan garansi 14 hari', '750000.00', 180, 14, 1, '⚡', '2025-10-30 18:14:32', '2025-10-30 18:14:32'),
+(8, 'Tuning Full Service', 'Tuning lengkap + dynotest dengan garansi 30 hari', '1200000.00', 240, 30, 1, '🏍️', '2025-10-30 18:14:32', '2025-10-30 18:14:32'),
+(9, 'Dyno Test', 'Pengetesan performa motor di dynamometer', '300000.00', 60, 0, 1, '📊', '2025-10-30 18:14:32', '2025-10-30 18:14:32'),
+(10, 'Konsultasi Teknis', 'Konsultasi masalah performa motor', '150000.00', 45, 0, 1, '💬', '2025-10-30 18:14:32', '2025-10-30 18:14:32');
 
 -- --------------------------------------------------------
 
@@ -475,7 +480,7 @@ ALTER TABLE `payment_confirmations`
 -- AUTO_INCREMENT for table `services`
 --
 ALTER TABLE `services`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
 
 --
 -- AUTO_INCREMENT for table `users`
